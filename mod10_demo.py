@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # script to demonstrate mod10 Message + Key = Ciphertext and reverse
-# shows it horizontally and vertically, uses terminal cololums and lines
+# shows it horizontally and vertically, uses terminal columns and lines
 # to limit output to reasonable amounts.
 ###
 import random,os
